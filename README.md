@@ -4,6 +4,32 @@
 
    Trata-se de um programa desenvolvido para aplicação WEB, utilizando o framework SpringBoot no back-end em conjunto com o framework Angular no front-end, o código foi criado na arquitetura monolitica que utiliza a estrutura model view control (MVC). 
 
+
+## Descrição do Projeto
+Este projeto tem como objetivo o desenvolvimento de um sistema para otimizar rotas de entrega de marmitas, utilizando programação dinâmica e técnicas modernas de desenvolvimento de software. O sistema é voltado para buffets e empresas que enfrentam desafios logísticos em suas operações, como restrições de horário, alta demanda e custo elevado com combustível. A solução busca melhorar a eficiência das entregas, reduzir custos operacionais e aumentar a satisfação dos clientes.
+
+## Problema Identificado
+Atualmente, a definição de rotas de entrega é realizada manualmente pelos entregadores, com base em critérios simples, como a localidade mais próxima. Esse método leva a rotas ineficientes, atrasos nas entregas e custos elevados. Além disso, o buffet enfrenta desafios como:
+- Respeitar janelas de horário específicas para alguns clientes.
+- Gerenciar a capacidade limitada de cada veículo (máximo de 12 marmitas por moto).
+- Operar em um horário restrito, com entregas entre 10h e 14h.
+
+## Solução Proposta
+O sistema proposto utiliza algoritmos de programação dinâmica para:
+- Calcular rotas otimizadas considerando distância, tempo de viagem, restrições de horário e capacidade dos veículos.
+- Fornecer previsões de horário de entrega para os clientes.
+- Reduzir custos de transporte e tempo de entrega, melhorando a eficiência operacional.
+
+
+## Público-Alvo
+O sistema é destinado a buffets e empresas que atuam no ramo de entrega de alimentos, especialmente em áreas urbanas com alta densidade populacional e grande fluxo de pedidos diários.
+
+## Tecnologias Utilizadas
+- Linguagem de Programação: [JavaScript, css]  
+- Frameworks: [SpringBoot, Angular]  
+- Banco de Dados: [H2]  
+- Ferramentas de Gerenciamento: [Trello]. 
+
 ## 🚀 Começando
 
    Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -85,7 +111,7 @@ Depois de fazer o fork, você precisará clonar o repositório para sua máquina
 
    * **Desenvolvedor** - *Trabalho Inicial* / *Documentação* - [Igor Leonor Macedo](https://github.com/Iot-Health-Br)
    * **Desenvolvedor** - *Trabalho Inicial* / *Documentação* - [Luidy Tavares](https://github.com/LuidyTT)
-   * **Desenvolvedor** - *Trabalho Inicial* / *Documentação* - [Kauan]()
+   * **Desenvolvedor** - *Trabalho Inicial* / *Documentação* - [Kauan Farias Lima](https://github.com/lKauanF)
      
 
 
